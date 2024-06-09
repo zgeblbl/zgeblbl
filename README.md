@@ -8,7 +8,7 @@ I'm an AI engineering undergrad with a passion for game development. Currently, 
 
 - 🌱 I’m currently learning [Learning Topic].
 - 👯 I’m looking to collaborate on [Type of Projects].
-- 📫 How to reach me: ![Gmail Address](ozgebul@gmail.com)
+- 📫 How to reach me: [Gmail Address](ozgebul@gmail.com)
 
 ## 🚀 My Skills
 
