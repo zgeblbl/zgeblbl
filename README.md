@@ -1,4 +1,4 @@
-# HIYA! 👋
+# HIYA! 🎮🦢
 
 ![Profile Banner](https://github.com/zgeblbl/zgeblbl/assets/117914215/1125ecf2-c922-4bc2-a353-4e579c5d7cb6)
 
