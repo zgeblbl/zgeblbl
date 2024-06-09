@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an AI engineering undergrad with a passion for game development. Currently, I'm focused on creating and being a part of game dev projects.
+I'm an AI engineering undergrad in Hacettepe University with a passion for game development. Currently, I'm focused on creating and being a part of game dev projects.
 
 - 👯 I’m looking to collaborate on game development projects.
 - 📫 How to reach me: ozgebul@gmail.com
