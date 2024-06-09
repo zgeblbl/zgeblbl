@@ -1,6 +1,6 @@
 # HIYA! 👋
 
-![Profile Banner](https://github.com/zgeblbl/zgeblbl/assets/117914215/b6fe4b29-8a02-4048-a1f7-a96f0746584e)
+![Profile Banner](https://github.com/zgeblbl/zgeblbl/assets/117914215/1125ecf2-c922-4bc2-a353-4e579c5d7cb6)
 
 ## About Me
 
