@@ -28,7 +28,7 @@ I'm an AI engineering undergrad in Hacettepe University with a passion for game 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=alienInvasionFPS&theme=radical)](https://github.com/zgeblbl/alienInvasionFPS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=duckHuntGame&theme=radical)](https://github.com/zgeblbl/duckHuntGame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=GameJam2024&theme=radical)](https://github.com/emreedgan/GameJam2024)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=emreedgan&repo=GameJam2024&theme=radical)](https://github.com/emreedgan/GameJam2024)
 
 
 
