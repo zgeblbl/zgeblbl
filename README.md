@@ -4,10 +4,10 @@
 
 ## About Me
 
-I'm an AI engineering undergrad in Hacettepe University with a passion for game development. Currently, I'm focused on creating and being a part of game dev projects.
+I'm an AI engineering undergrad in Hacettepe University with a passion for coding and AI. Currently, I'm focused on creating and being a part of all kinds of engaging projects.
 
 - 🥇 Got 1st place on Pura Game Jam '24!
-- 👯 I’m looking to collaborate on game development projects.
+- 👯 I’m looking to collaborate.
 - 📫 How to reach me: ozgebul@gmail.com
 
 ## 🚀 My Skills
