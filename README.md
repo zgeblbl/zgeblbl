@@ -44,8 +44,9 @@ I'm an AI engineering undergrad in Hacettepe University with a passion for codin
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=alienInvasionFPS&theme=radical)](https://github.com/zgeblbl/alienInvasionFPS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=duckHuntGame&theme=radical)](https://github.com/zgeblbl/duckHuntGame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=hmb-backend&theme=radical)](https://github.com/zgeblbl/hmb-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=Nationality-recognition-backend&theme=radical)](https://github.com/zgeblbl/Nationality-recognition-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgeblbl&repo=hmb-frontend&theme=radical)](https://github.com/zgeblbl/hmb-frontend)
 
 
 ## 💬 Let's Connect
